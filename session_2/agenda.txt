@@ -1,0 +1,8 @@
+1. For loop
+2. While loop
+3. Class - general structure
+4. instance methods
+5. special methods
+6. Class inheritance
+7. File operations
+8. exception handling
